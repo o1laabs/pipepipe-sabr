@@ -1,0 +1,508 @@
+{
+  "started": "2026-10-21T01:56:41",
+  "itag": 251,
+  "wall_budget_s": 900.0,
+  "videos": [
+    {
+      "video": "dQw4w9WgXcQ",
+      "player_js": "67288f35",
+      "init_ok": true,
+      "init_error": null,
+      "duration_s": 210.0,
+      "target_s": 210.0,
+      "covered_s": 210.0,
+      "segments": 21,
+      "bytes": 3404250,
+      "elapsed_s": 58.8,
+      "throughput_kib_s": 56.5,
+      "first_segment_ms": 2412,
+      "requests": 21,
+      "req_ms": [
+        2624,
+        2723,
+        2902,
+        2678,
+        2564,
+        2772,
+        2808,
+        2636,
+        3086,
+        2712,
+        2647,
+        2669,
+        2779,
+        2747,
+        2769,
+        3041,
+        2751,
+        4216,
+        2698,
+        2560,
+        2410
+      ],
+      "backoffs": [],
+      "redirects": [],
+      "protection": [
+        {
+          "rn": 1,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 2,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 3,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 4,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 5,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 6,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 7,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 8,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 9,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 10,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 11,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 12,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 13,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 14,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 15,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 16,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 17,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 18,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 19,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 20,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 21,
+          "status": 1,
+          "max_retries": null
+        }
+      ],
+      "reloads": [],
+      "errors": [],
+      "parts": {
+        "PLAYBACK_START_POLICY": 21,
+        "STREAM_PROTECTION_STATUS": 21,
+        "REQUEST_IDENTIFIER": 21,
+        "REQUEST_CANCELLATION_POLICY": 21,
+        "NEXT_REQUEST_POLICY": 21,
+        "MEDIA_HEADER": 42,
+        "MEDIA": 225,
+        "MEDIA_END": 42
+      },
+      "stalled": false,
+      "decode_errors": null,
+      "file": "stress10/01_dQw4w9WgXcQ_251.webm"
+    },
+    {
+      "video": "dQw4w9WgXcQ",
+      "player_js": "67288f35",
+      "init_ok": true,
+      "init_error": null,
+      "duration_s": 210.0,
+      "target_s": 210.0,
+      "covered_s": 210.0,
+      "segments": 21,
+      "bytes": 3404250,
+      "elapsed_s": 57.9,
+      "throughput_kib_s": 57.4,
+      "first_segment_ms": 2662,
+      "requests": 21,
+      "req_ms": [
+        2830,
+        2855,
+        2772,
+        2845,
+        2815,
+        2743,
+        2878,
+        2761,
+        2543,
+        2577,
+        2789,
+        2703,
+        2879,
+        2598,
+        2968,
+        2659,
+        2866,
+        2674,
+        2694,
+        2838,
+        2630
+      ],
+      "backoffs": [],
+      "redirects": [],
+      "protection": [
+        {
+          "rn": 1,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 2,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 3,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 4,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 5,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 6,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 7,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 8,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 9,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 10,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 11,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 12,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 13,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 14,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 15,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 16,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 17,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 18,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 19,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 20,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 21,
+          "status": 1,
+          "max_retries": null
+        }
+      ],
+      "reloads": [],
+      "errors": [],
+      "parts": {
+        "PLAYBACK_START_POLICY": 21,
+        "STREAM_PROTECTION_STATUS": 21,
+        "REQUEST_IDENTIFIER": 21,
+        "REQUEST_CANCELLATION_POLICY": 21,
+        "NEXT_REQUEST_POLICY": 21,
+        "MEDIA_HEADER": 42,
+        "MEDIA": 225,
+        "MEDIA_END": 42
+      },
+      "stalled": false,
+      "decode_errors": null,
+      "file": "stress10/02_dQw4w9WgXcQ_251.webm"
+    },
+    {
+      "video": "dQw4w9WgXcQ",
+      "player_js": "67288f35",
+      "init_ok": true,
+      "init_error": null,
+      "duration_s": 210.0,
+      "target_s": 210.0,
+      "covered_s": 210.0,
+      "segments": 21,
+      "bytes": 3404250,
+      "elapsed_s": 57.8,
+      "throughput_kib_s": 57.5,
+      "first_segment_ms": 2991,
+      "requests": 21,
+      "req_ms": [
+        3194,
+        2938,
+        2545,
+        2658,
+        2726,
+        2689,
+        2688,
+        2708,
+        2718,
+        3135,
+        3758,
+        2488,
+        2773,
+        2792,
+        2585,
+        2718,
+        2691,
+        2532,
+        2728,
+        2304,
+        2440
+      ],
+      "backoffs": [],
+      "redirects": [],
+      "protection": [
+        {
+          "rn": 1,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 2,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 3,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 4,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 5,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 6,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 7,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 8,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 9,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 10,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 11,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 12,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 13,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 14,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 15,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 16,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 17,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 18,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 19,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 20,
+          "status": 1,
+          "max_retries": null
+        },
+        {
+          "rn": 21,
+          "status": 1,
+          "max_retries": null
+        }
+      ],
+      "reloads": [],
+      "errors": [],
+      "parts": {
+        "PLAYBACK_START_POLICY": 21,
+        "STREAM_PROTECTION_STATUS": 21,
+        "REQUEST_IDENTIFIER": 21,
+        "REQUEST_CANCELLATION_POLICY": 21,
+        "NEXT_REQUEST_POLICY": 21,
+        "MEDIA_HEADER": 42,
+        "MEDIA": 225,
+        "MEDIA_END": 42
+      },
+      "stalled": false,
+      "decode_errors": null,
+      "file": "stress10/03_dQw4w9WgXcQ_251.webm"
+    }
+  ],
+  "totals": {
+    "videos_ok": 3,
+    "videos_failed": 0,
+    "media_s": 630.0,
+    "wall_s": 214.4,
+    "bytes": 10212750,
+    "segments": 63,
+    "requests": 63,
+    "backoffs": 0,
+    "redirects": 0,
+    "errors": 0,
+    "protection_status_values": [
+      1
+    ]
+  }
+}

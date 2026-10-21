@@ -1,0 +1,38 @@
+[
+  {
+    "video": "9bZkp7q19f0",
+    "pot": false,
+    "status": "OK",
+    "covered_s": 60.0,
+    "segments": 6,
+    "backoffs": [],
+    "protection": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "stall": true,
+    "error": null,
+    "bytes": 912256,
+    "file": "/tmp/pot_ab_9bZkp7q19f0_nopot.webm"
+  },
+  {
+    "video": "9bZkp7q19f0",
+    "pot": true,
+    "status": "OK",
+    "covered_s": 90.0,
+    "segments": 9,
+    "backoffs": [],
+    "protection": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "stall": false,
+    "error": null,
+    "bytes": 1392842,
+    "file": "/tmp/pot_ab_9bZkp7q19f0_pot.webm"
+  }
+]

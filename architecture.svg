@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="940" viewBox="0 0 1440 940">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+    <path d="M0,0 L10,5 L0,10 z" fill="#1F5F8B"/>
+  </marker>
+  <marker id="arroww" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+    <path d="M0,0 L10,5 L0,10 z" fill="#d8d8d8"/>
+  </marker>
+</defs>
+<rect width="1440" height="940" fill="#ffffff"/>
+<text x="60" y="64" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="26" fill="#111111" font-weight="600" text-anchor="start" opacity="1">PipePipe · 核心功能逆向</text>
+<text x="60" y="92" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">GPLv3 源码基线 2026-10-19 ｜ Client 108,139 行 + Extractor 64,177 行 ｜ 唯一闭源件：api.pipepipe.dev</text>
+<line x1="60" y1="112" x2="1380" y2="112" stroke="#d8d8d8" stroke-width="1"/>
+<text x="60" y="150" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#6b6b6b" font-weight="500" text-anchor="start" opacity="1">客户端 · Android</text>
+<text x="560" y="150" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#6b6b6b" font-weight="500" text-anchor="start" opacity="1">提取层 · 纯 JVM</text>
+<text x="1090" y="150" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#6b6b6b" font-weight="500" text-anchor="start" opacity="1">外部端点</text>
+<rect x="60" y="172" width="420" height="96" rx="6" fill="#fff" stroke="#d8d8d8" stroke-width="1"/>
+<text x="84" y="200" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#111111" font-weight="600" text-anchor="start" opacity="1">ExoPlayer / Media3</text>
+<text x="84" y="224" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">SabrDashMediaSource — 伪造 MPD</text>
+<text x="84" y="244" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">SabrMediaBridge / SabrSegmentDataSource</text>
+<rect x="60" y="288" width="420" height="84" rx="6" fill="#fff" stroke="#d8d8d8" stroke-width="1"/>
+<text x="84" y="316" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#111111" font-weight="600" text-anchor="start" opacity="1">SharedWebViewRuntime</text>
+<text x="84" y="340" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">隐藏 WebView · PipePipeWebViewBridge</text>
+<text x="84" y="358" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">EJS 解码器  ｜  BotGuard 铸造器</text>
+<rect x="60" y="392" width="420" height="76" rx="6" fill="#fff" stroke="#d8d8d8" stroke-width="1"/>
+<text x="84" y="420" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#111111" font-weight="600" text-anchor="start" opacity="1">DownloadManager (giga)</text>
+<text x="84" y="444" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">按段下载 · 断点恢复 · SABR 会话</text>
+<rect x="60" y="488" width="420" height="88" rx="6" fill="#FBFBFB" stroke="#d8d8d8" stroke-width="1"/>
+<text x="84" y="516" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#111111" font-weight="600" text-anchor="start" opacity="1">Settings</text>
+<text x="84" y="540" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">提取端点：VisionOS / MWEB(SABR) / TV</text>
+<text x="84" y="560" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#B4530A" font-weight="400" text-anchor="start" opacity="1">把平台对抗降级成配置项</text>
+<rect x="560" y="172" width="400" height="132" rx="6" fill="#fff" stroke="#d8d8d8" stroke-width="1"/>
+<text x="584" y="200" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#111111" font-weight="600" text-anchor="start" opacity="1">StreamingService → LinkHandler → Extractor</text>
+<text x="584" y="226" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">· YouTube (SABR)</text>
+<text x="584" y="248" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">· Bilibili (WBI + ticket)</text>
+<text x="584" y="270" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">· Niconico / SoundCloud / PeerTube…</text>
+<rect x="560" y="324" width="400" height="176" rx="6" fill="#FCFCFC" stroke="#d8d8d8" stroke-width="1"/>
+<text x="584" y="352" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#111111" font-weight="600" text-anchor="start" opacity="1">YouTube SABR 会话</text>
+<text x="584" y="378" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="10.5" fill="#111111" font-weight="400" text-anchor="start" opacity="1">sabr/YoutubeSabrSession</text>
+<text x="800" y="378" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">761 行 · 换 host / 退避</text>
+<text x="584" y="398" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="10.5" fill="#111111" font-weight="400" text-anchor="start" opacity="1">sabr/YoutubeSabrRequestHelper</text>
+<text x="800" y="398" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">请求体 protobuf 1–19</text>
+<text x="584" y="418" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="10.5" fill="#111111" font-weight="400" text-anchor="start" opacity="1">sabr/protocol/UmpReader</text>
+<text x="800" y="418" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">UMP 自研压缩整数</text>
+<text x="584" y="438" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="10.5" fill="#111111" font-weight="400" text-anchor="start" opacity="1">sabr/protocol/SabrResponseDecoder</text>
+<text x="800" y="438" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">part type 10–67</text>
+<text x="584" y="458" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="10.5" fill="#111111" font-weight="400" text-anchor="start" opacity="1">sabr/media/Sabr*IndexParser</text>
+<text x="800" y="458" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">sidx / Cues → 分段表</text>
+<text x="584" y="478" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="10.5" fill="#111111" font-weight="400" text-anchor="start" opacity="1">sabr/YoutubeSabrInfo</text>
+<text x="800" y="478" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">formats / initRange</text>
+<rect x="560" y="520" width="400" height="116" rx="6" fill="#fff" stroke="#d8d8d8" stroke-width="1"/>
+<text x="584" y="548" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#111111" font-weight="600" text-anchor="start" opacity="1">解码与完整性</text>
+<text x="584" y="572" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">YoutubeApiDecoder —— 三级降级</text>
+<text x="584" y="594" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">YoutubeJavaScriptPlayerManager</text>
+<text x="584" y="616" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">serviceIntegrityDimensions.poToken</text>
+<rect x="1090" y="172" width="290" height="88" rx="6" fill="#fff" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1114" y="200" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="13.5" fill="#111111" font-weight="600" text-anchor="start" opacity="1">youtubei/v1/player</text>
+<text x="1114" y="224" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">MWEB 客户端 · poToken 注入</text>
+<text x="1114" y="244" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12" fill="#1F5F8B" font-weight="400" text-anchor="start" opacity="1">→ serverAbrStreamingUrl</text>
+<rect x="1090" y="280" width="290" height="80" rx="6" fill="#fff" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1114" y="308" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="13.5" fill="#111111" font-weight="600" text-anchor="start" opacity="1">videoplayback?sabr=1</text>
+<text x="1114" y="332" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">application/vnd.yt-ump</text>
+<text x="1114" y="350" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">UMP part 流（MEDIA/CONTROL）</text>
+<rect x="1090" y="380" width="290" height="80" rx="6" fill="#fff" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1114" y="408" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="13.5" fill="#111111" font-weight="600" text-anchor="start" opacity="1">jnn-pa.googleapis.com</text>
+<text x="1114" y="432" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">Waa/GenerateIT</text>
+<text x="1114" y="450" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">BotGuard → integrityToken</text>
+<rect x="1090" y="480" width="290" height="76" rx="6" fill="#fff" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1114" y="508" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="13.5" fill="#111111" font-weight="600" text-anchor="start" opacity="1">youtube.com</text>
+<text x="1114" y="532" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">首页 ytcfg + attestation challenge</text>
+<text x="1114" y="550" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">player_ias…/base.js</text>
+<rect x="1090" y="596" width="290" height="156" rx="6" fill="#FFFBF6" stroke="#B4530A" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="1114" y="626" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="15" fill="#B4530A" font-weight="600" text-anchor="start" opacity="1">api.pipepipe.dev</text>
+<text x="1114" y="650" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#B4530A" font-weight="400" text-anchor="start" opacity="1">唯一闭源件（个人运营）</text>
+<text x="1114" y="676" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="11.5" fill="#111111" font-weight="400" text-anchor="start" opacity="1">GET /decoder/latest-player</text>
+<text x="1114" y="696" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="11.5" fill="#111111" font-weight="400" text-anchor="start" opacity="1">GET /decoder/decode?player&amp;sig&amp;n</text>
+<text x="1114" y="722" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="11.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">实测返回 {"player":"67288f35",</text>
+<text x="1114" y="740" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="11.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">         "signatureTimestamp":20744}</text>
+<line x1="480" y1="212" x2="560" y2="212" stroke="#1F5F8B" stroke-width="1.4" marker-end="url(#arrow)"/>
+<line x1="560" y1="252" x2="480" y2="252" stroke="#1F5F8B" stroke-width="1.4" marker-end="url(#arrow)"/>
+<text x="520" y="200" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#6b6b6b" font-weight="400" text-anchor="middle" opacity="1">Stream / SABR</text>
+<text x="520" y="272" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#6b6b6b" font-weight="400" text-anchor="middle" opacity="1">segment bytes</text>
+<line x1="480" y1="330" x2="560" y2="330" stroke="#d8d8d8" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text x="520" y="320" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#6b6b6b" font-weight="400" text-anchor="middle" opacity="1">minter / solver</text>
+<line x1="960" y1="200" x2="1090" y2="200" stroke="#1F5F8B" stroke-width="1.4" marker-end="url(#arrow)"/>
+<line x1="1090" y1="244" x2="960" y2="244" stroke="#1F5F8B" stroke-width="1.4" marker-end="url(#arrow)"/>
+<line x1="960" y1="360" x2="1090" y2="320" stroke="#1F5F8B" stroke-width="1.4" marker-end="url(#arrow)"/>
+<line x1="1090" y1="350" x2="960" y2="390" stroke="#1F5F8B" stroke-width="1.4" marker-end="url(#arrow)"/>
+<line x1="960" y1="420" x2="1090" y2="420" stroke="#d8d8d8" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="960" y1="470" x2="1090" y2="508" stroke="#d8d8d8" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="960" y1="590" x2="1090" y2="640" stroke="#B4530A" stroke-width="1.4" marker-end="url(#arrow)"/>
+<line x1="1090" y1="700" x2="960" y2="600" stroke="#B4530A" stroke-width="1.0" stroke-dasharray="4 3"/>
+<text x="1020" y="190" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#1F5F8B" font-weight="600" text-anchor="middle" opacity="1">①</text>
+<text x="1020" y="300" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#1F5F8B" font-weight="600" text-anchor="middle" opacity="1">②</text>
+<text x="1020" y="405" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#1F5F8B" font-weight="600" text-anchor="middle" opacity="1">③</text>
+<text x="1020" y="495" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#1F5F8B" font-weight="600" text-anchor="middle" opacity="1">④</text>
+<line x1="60" y1="792" x2="1380" y2="792" stroke="#d8d8d8" stroke-width="1"/>
+<text x="60" y="822" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="14" fill="#111111" font-weight="600" text-anchor="start" opacity="1">SABR 握手（逆向结论）</text>
+<text x="60" y="852" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12" fill="#111111" font-weight="600" text-anchor="start" opacity="1">① player</text>
+<text x="148" y="852" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">serverAbrStreamingUrl + ustreamerConfig + initRange/indexRange</text>
+<text x="560" y="852" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12" fill="#111111" font-weight="600" text-anchor="start" opacity="1">② init GET</text>
+<text x="648" y="852" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">Range: bytes=init…indexEnd  → 206（ftyp+moov+sidx）</text>
+<text x="1010" y="852" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12" fill="#111111" font-weight="600" text-anchor="start" opacity="1">③ POST UMP</text>
+<text x="1098" y="852" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">?alr=yes&amp;cpn&amp;rn · x-protobuf / vnd.yt-ump · 字段 1–19</text>
+<text x="60" y="890" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12" fill="#111111" font-weight="600" text-anchor="start" opacity="1">④ poToken</text>
+<text x="148" y="890" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">youtube.com → BotGuard VM → GenerateIT → mint(videoId|visitorData)</text>
+<text x="560" y="890" font-family="ui-monospace, 'SF Mono', Menlo, 'Noto Sans Mono CJK SC', monospace" font-size="12" fill="#111111" font-weight="600" text-anchor="start" opacity="1">⑤ 消费</text>
+<text x="648" y="890" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="11.5" fill="#6b6b6b" font-weight="400" text-anchor="start" opacity="1">MEDIA_HEADER(20)/MEDIA(21)/MEDIA_END(22) → spool → 段索引 → 伪造 MPD</text>
+</svg>

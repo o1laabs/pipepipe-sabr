@@ -1,0 +1,30 @@
+# media & runtime artifacts
+downloads/
+downloads2/
+stream/
+abr/
+live/
+samples/
+ui/clips/
+ui/posters/
+app/cache/
+app/data/
+*.sabrstate.json
+*.seg
+*.m4s
+
+# node
+potnode/node_modules/
+
+# third-party source snapshots (GPL upstream clones, not ours to redistribute here)
+PipePipeClient/
+PipePipeExtractor/
+upstream-npe/
+
+# python
+__pycache__/
+*.pyc
+.pot_cache.json
+
+# stress artifacts (keep report.json)
+stress10/*.webm
